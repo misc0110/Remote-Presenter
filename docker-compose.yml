@@ -1,0 +1,5 @@
+services:
+  presenter_server:
+    build: .
+    ports:
+      - "9999:9999" 
